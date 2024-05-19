@@ -1,7 +1,7 @@
 'use client';
 
 import Image from "next/image";
-import business from "./assets/business.png";
+import business from './assets/business.png';
 import { TypeAnimation } from 'react-type-animation';
 import { ReactTyped } from "react-typed";
 import { useState, useEffect } from "react";
