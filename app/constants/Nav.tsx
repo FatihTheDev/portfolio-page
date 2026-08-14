@@ -13,7 +13,7 @@ const Nav = () => {
     }
 
     return (
-        <nav className="bg-blue-800 flex justify-between items-center p-4 shadow-md">
+        <nav className="sticky top-0 z-50 bg-blue-800 flex justify-between items-center p-4 shadow-md">
             <div className="profiles flex justify-start">
                 <Link href="https://www.linkedin.com/in/fatih-mekic-96383b28a/" target="_blank">
                     <Image className="rounded-md hover:opacity-60 transition-all duration-300" src={linkedin} width={40} alt="linkedin" />
