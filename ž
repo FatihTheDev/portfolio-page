@@ -16,7 +16,7 @@ export default function Home() {
           <Image
             src={pfp}
             alt="business headshot"
-            className="h-[300px] md:h-[400px] w-auto object-cover rounded-full shadow-xl border-4 border-white dark:border-neutral-800 dark:shadow-neutral-950"
+            className="h-[300px] md:h-[400px] w-auto object-cover rounded-full border-4 border-white dark:border-neutral-800 dark:shadow-neutral-950"
           />
         </div>
 
@@ -30,9 +30,9 @@ export default function Home() {
                 1000,
                 `I am Fatih Mekić, an aspiring frontend web developer with knowledge in HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS, C, C++, Kotlin, Python, MongoDB and Neo4J. I am currently polishing my React knowledge and am ready to code anytime.\nI also have experience in efficiently prompting various large language models to drastically boost my workflow.\n`,
                 1000,
-                `I am Fatih Mekić, an aspiring frontend web developer with knowledge in HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS, C, C++, Kotlin, Python, MongoDB and Neo4J. I am currently polishing my React knowledge and am ready to code anytime.\nI also have experience in efficiently prompting various large language models to drastically boost my workflow.\nI am a big linux enthusiast and am a proud daily driver of Arch Linux, as it allows me to learn a lot about Linux processes and the system itself.\nI have a positive attitude towards learning new things and am always see`,
+                `I am Fatih Mekić, an aspiring frontend web developer with knowledge in HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS, C, C++, Kotlin, Python, MongoDB and Neo4J. I am currently polishing my React knowledge and am ready to code anytime.\nI also have experience in efficiently prompting various large language models to drastically boost my workflow.\nI am a big linux enthusiast and am a proud daily driver of Arch Linux.\nI have a positive attitude towards learning new things and am always see`,
                 1000,
-                `I am Fatih Mekić, an aspiring frontend web developer with knowledge in HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS, C, C++, Kotlin, Python, MongoDB and Neo4J. I am currently polishing my React knowledge and am ready to code anytime.\nI also have experience in efficiently prompting various large language models to drastically boost my workflow.\nI am a big linux enthusiast and am a proud daily driver of Arch Linux, as it allows me to learn a lot about Linux processes and the system itself.\nI have a positive attitude towards learning new things and am always seeking new`,
+                `I am Fatih Mekić, an aspiring frontend web developer with knowledge in HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS, C, C++, Kotlin, Python, MongoDB and Neo4J. I am currently polishing my React knowledge and am ready to code anytime.\nI also have experience in efficiently prompting various large language models to drastically boost my workflow.\nI am a big linux enthusiast and am a proud daily driver of Arch Linux.\nI have a positive attitude towards learning new things and am always seeking new`,
                 1000,
                 () => setShowTyped(true),
               ]}
