@@ -16,7 +16,7 @@ export default function Home() {
           <Image
             src={pfp}
             alt="business headshot"
-            className="h-[300px] md:h-[400px] w-auto object-cover rounded-full shadow-xl border-4 border-white dark:border-neutral-800 dark:shadow-neutral-950"
+            className="h-[200px] w-[200px] md:h-[400px] md:w-[400px] object-cover rounded-full shadow-xl border-4 border-white dark:border-neutral-800 dark:shadow-neutral-950"
           />
         </div>
 
